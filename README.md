@@ -1,4 +1,5 @@
-# 4_to_12_Demultiplexer
+# 4 to 12 Demultiplexer:
+
 ## About the project:
 - Inputs: `D` the data in, `S` the 4-bits select lines and `Ebar` the active-low enable input.
 - Outputs: `Y` 12-bits bus.
