@@ -1,2 +1,6 @@
 # 4_to_12_Demultiplexer
-4 bits inputs to 12 bits outputs demultiplexer
+## About the project:
+
+## What did I learn from it:
+
+
